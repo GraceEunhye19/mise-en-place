@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Mise en Place</string>
+    <string name="search">Search</string>
+    <string name="length">Length</string>
+    <string name="cooking">Cooking</string>
+    <string name="weight">Weight</string>
+    <string name="currency">Currency</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+    <string name="converter_title">Your Kitchen Companion</string>
+    <string name="converter_subtitle">Tap a tool to start converting</string>
+    <string name="lengths">cm, m, ft, in</string>
+    <string name="measurements">cups, tbsp, ml</string>
+    <string name="weights">kg, g, lb, oz</string>
+    <string name="currencies">USD, EUR, NGN</string>
+    <string name="enter_value">Enter value</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="result">Result</string>
+    <string name="empty_note_text">Log what you have eaten or recipes you want to try...</string>
+    <string name="no_notes_text">No notes yet</string>
+    <string name="no_notes_text2">Tap + to add a recipe or food log</string>
+    <string name="add_note">Add note</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="timer_title">Kitchen Timer</string>
+    <string name="timer_subtitle">Set your cooking time</string>
+    <string name="time_up">Time\'s up! \n Tap Reset to stop the Beeping!</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="resume">Resume</string>
+
+</resources>
