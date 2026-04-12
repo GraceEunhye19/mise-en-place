@@ -35,6 +35,3 @@ View the complete project here:
 Developer
 Grace Igbadun 
 Android Developer
-
-Grace Igbadun  
-Android Developer
