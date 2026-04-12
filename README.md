@@ -24,10 +24,10 @@ Tech Stack
 - Tools: Android Studio
 
 ---
+Test the complete app here:
 [Appetize link](https://appetize.io/app/b_nh4di2fokps6khxfbdgkq53aoy)
 
 ---
-GitHub Repository
 View the complete project here:  
 [GitHub Repo](https://github.com/GraceEunhye19/mise-en-place)
 
