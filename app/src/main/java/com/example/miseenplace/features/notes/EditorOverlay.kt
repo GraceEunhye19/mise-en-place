@@ -67,7 +67,7 @@ fun EditorOverlay(
                 .fillMaxHeight(0.75f)
                 .clip(RoundedCornerShape(28.dp))
                 .background(noteCardColor)
-                .padding(24.dp)
+                .padding(20.dp)
         ) {
             Row(
                 modifier = Modifier.fillMaxWidth(),
@@ -88,7 +88,7 @@ fun EditorOverlay(
                         contentDescription = stringResource(R.string.save),
                         tint = Color.Black.copy(alpha = 0.6f)
                     )
-                }
+                }}
 
                 Spacer(modifier = Modifier.height(8.dp))
 
@@ -128,7 +128,7 @@ fun EditorOverlay(
 //                    }
 //
 //                }
-            }
+
         }
     }
 }
